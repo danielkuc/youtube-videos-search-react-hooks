@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Project title and description
+Yotube finder, same as previous app but refactored to use hooks instead of class components.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tech/framework used
+React-refactored to use hooks.
 
 ## Available Scripts
 
